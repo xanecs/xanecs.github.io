@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<article class="row">
+	<div class="column_12 margin-bottom">
+		<a href="{{post.url}}"><h2 class="color theme text bold">{{page.title}}</h2></a>
+		<h5>Geschrieben am {{ page.date | date_to_string }}</h5>
+	</div>
+	<div class="column_12 align text justify post_content">
+		{{content}}
+	</div>
+</article>

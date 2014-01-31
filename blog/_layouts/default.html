@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="de" id="page-html">
+    <head>
+        <title>Leon's Blog &laquo; {{page.title}}</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="/css/tuktuk.css">
+        <link rel="stylesheet" type="text/css" href="/css/tuktuk.theme.css">
+        <link rel="stylesheet" type="text/css" href="/css/tuktuk.icons.css">
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
+    </head>
+    <body class="text thin sticky" id="page-body">
+        <header class="bck light padding" id="page-header">
+            <div class="row">
+                <div class="column_6">
+                    <a href="/"><h2 class="text bold">Leon's Blog</h2></a>
+                </div>
+                <nav class="column_6  text right bold">
+                    <a href="/">Startseite</a>
+                    <a href="/aboutme.html">Über mich</a>
+                    <a href="/legal.html">Impressum</a>
+                </nav>
+            </div>
+        </header>
+        <div id="page-wrapper">
+            <section class="padding">
+                <div class="row">
+                    <div class="column_12">
+                        {{content}}
+                    </div>
+                </div>
+            </section>
+            <footer class="bck dark padding" id="page-footer">
+                <div class="row margin-top margin-bottom">
+                    <div class="column_5">
+                        <p class="text bold big">Handarbeit mit <span class="icon heart"></span></p>
+                        <p class="text thin">Leon Bentrup</p>
+                    </div>
+                    <div class="column_4">
+                        <p class="text bold big">Präsentiert von</p>
+                        <p class="text thin"><a href="http://jekyllrb.com"><span class="icon caret-right"></span> Jekyll</a></p>
+                        <p class="text thin"><a href="http://tuktuk.tapquo.com/"><span class="icon caret-right"></span> TukTuk</a></p>
+                        
+                    </div>
+                    <div class="column_3">
+                        <p class="text bold big">Finde mich auf</p>
+                        <p class="text thin"><a href="https://github.com/LeonadiLSB"><span class="icon github-alt"></span> GitHub</a></p>
+                        <p class="text thin"><a href="https://twitter.com/iwmmedien"><span class="icon twitter"></span> Twitter</a></p>
+                        <p class="text thin"><a href="http://cyberimg.wordpress.com"><span class="icon camera"></span> Fotoblog</a></p>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </body>
+</html>
