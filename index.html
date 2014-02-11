@@ -3,9 +3,9 @@ layout: default
 title: Startseite
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
      <article class="row">
-     	<div class="column_12 margin-bottom">
+     	<div class="column_12 margin-bottom margin-top">
      		<a href="{{post.url}}"><h2 class="color theme text bold">{{post.title}}</h2></a>
      		<h5>Geschrieben am {{ post.date | date_to_string }}</h5>
      	</div>
@@ -15,3 +15,26 @@ title: Startseite
      	<div class="column_12 margin-top"><a class="button alert" href="{{post.url}}">Weiter</a></div>
      </article>
 {% endfor %}
+{% if paginator.total_pages > 1 %}
+     <section class="bck light" id="paginator-bar">
+        <div class="row text center">
+            <nav data-tuktuk="menu" class="column_12 padding text bold">
+               {% if paginator.previous_page %}
+                    {% if paginator.previous_page == 1 %}
+                         <a href="/" class="button tiny"><span class="icon arrow-left"></span> Vorherige Seite</a>
+                    {% else %}
+                         <a href="/page{{paginator.previous_page}}" class="button tiny"><span class="icon arrow-left"></span> Vorherige Seite</a>
+                    {% endif %}
+               {% else %}
+                    <a href="#" class="button secondary tiny"><span class="icon arrow-left"></span> Vorherige Seite</a>
+               {% endif %}
+
+               {% if paginator.next_page %}
+                   <a href="/page{{paginator.next_page}}" class="button tiny">Nächste Seite <span class="icon arrow-right"></span></a>
+               {% else %}
+                    <a href="#" class="button secondary tiny">Nächste Seite <span class="icon arrow-right"></span></a>
+               {% endif %}
+            </nav>
+        </div>
+    </section>
+{% endif %}
