@@ -5,6 +5,16 @@
 
 .post_content p {
     margin-bottom: 6px;
+} 
+
+.post_content ul {
+    margin-bottom: 16px;
+}
+
+.post_content img {
+    text-align: center;
+    width: 50%;
+    height: auto;
 }
 
 #page-wrapper {
