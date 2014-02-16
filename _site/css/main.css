@@ -7,6 +7,10 @@
     margin-bottom: 6px;
 } 
 
+body:not(.color):not(.dark) .post_content a {
+    color: #4e907e;
+}
+
 .post_content ul {
     margin-bottom: 16px;
 }
