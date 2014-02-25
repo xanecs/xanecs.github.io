@@ -28,6 +28,7 @@ Aussicht aus dem Fenster:
 Weiter ging es dann in ein Jagd/Fischerei-Geschäft, ["Cabela's"](http://www.cabelas.com/). Ich wusste ja, das die Waffengesetze in den USA ziemlich lasch sind, aber das hätte ich nich erwartet: Die Gewehre liegen einfach so zum "anprobieren" aus.
 
 ![img06](/assets/20140214/img_0006.jpg)
+
 Bild von Henrik Schopmans
 
 Als letztes sind wir dann in eine Einkaufsmeile gefahren. Und dort zwei Stunden geblieben. Zwei Stunden, nur Schuh- und Klammottengeschäfte, die Geschäfte sind einzeln, dazwischen nichts überdacht, und draußen hat es -15 °C. Scheiße!
