@@ -31,6 +31,8 @@ Weiter ging es dann in ein Jagd/Fischerei-Geschäft, ["Cabela's"](http://www.cab
 
 Bild von Henrik Schopmans
 
+
+
 Als letztes sind wir dann in eine Einkaufsmeile gefahren. Und dort zwei Stunden geblieben. Zwei Stunden, nur Schuh- und Klammottengeschäfte, die Geschäfte sind einzeln, dazwischen nichts überdacht, und draußen hat es -15 °C. Scheiße!
 Ich kann also nur erzählen, wo es kostenloses WLAN gibt.
 (Famous Footwear, Jade Moose, Burger King, das hat aber nicht funktioniert).
