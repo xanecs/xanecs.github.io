@@ -21,17 +21,18 @@ body:not(.color):not(.dark) .post_content a {
     height: auto;
 }
 
-#page-wrapper {
+#page-section {
     background: #fff;
     border-top: 5px solid #E3E8E9;
+    padding-bottom: 125px;
 }
+
 
 #page-body {
     background: #2c3e50;
 }
 
 #page-footer {
-    margin-top: 125px;
     border-top: 5px solid #22303D;
 }
 
