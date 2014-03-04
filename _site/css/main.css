@@ -55,3 +55,7 @@ body:not(.color):not(.dark) .post_content a {
 #paginator-bar {
 	margin-top: 100px;
 }
+
+.post_content ul {
+    list-style-position: inside;
+}
