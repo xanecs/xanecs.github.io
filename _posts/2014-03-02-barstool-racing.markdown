@@ -15,7 +15,7 @@ Zwei Teams fahren so nebeneinander, und wer als erstes mit Barhocker unten ankom
 
 Beidseits des Hangs steht dann eine handvoll Leute, die sich bei -30 °C zitternd ein Bier nach dem anderen reinkippen, welches aus mit Neoprentaschen vor der Kälte geschützten Dosen kommt. Hartnäckige Fans haben auch Handschuhe mit integriertem Dosen(warm)halter.
 
-Achja, und ich stehe da auch noch, mit eingefrorenen Fingern und dicken Handschuhen die Serienildfunktion der Kamera demonstrierend:
+Achja, und ich stehe da auch noch, mit eingefrorenen Fingern und dicken Handschuhen die Serienbildfunktion der Kamera demonstrierend:
 
 ![img01](/assets/20140302/img_0001.jpg)
 ![img02](/assets/20140302/img_0002.jpg)
