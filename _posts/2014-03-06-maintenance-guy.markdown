@@ -14,7 +14,7 @@ Zielperson X (nicht Ich!) öffnet den Zimmersafe, legt seine Kamera hinein und v
 Zielperson X entschließt sich, die Kamera doch zum bevorstehenden Ausflug mitzunehmen. Durch Eingabe des vorher eingestellten, vierstelligen Codes hofft X, die Safetür zu öffnen. Allerdings wird X von einem schrillen dreimaligen Piepton und der Anzeige "E-Code" im Display des Tresors überrascht.
 
 ### Mittwoch 19:33
-Zielperson X und Ich haben herausgefunden, dass sich der Tresor nach 4-maliger Flascheingabe der Kombination für 15 Minuten sperrt. X entschließt  sihc daraufhin, die Kamera doch nicht mitzunehmen.
+Zielperson X und ich haben herausgefunden, dass sich der Tresor nach 4-maliger Falscheingabe der Kombination für 15 Minuten sperrt. X entschließt sich daraufhin, die Kamera doch nicht mitzunehmen.
 
 ### Mittwoch 22:13
 Die Dame an der Rezeption erzählt uns, dass eine Öffnung des Tresors nur durch eine mysteriöse Person mit dem Namen "Maintenance Guy" erfolgen kann. Diese werde am nächsten Tag um 9 Uhr bereitstehen, dies zu tun. Ich und Zielperson X gehen enttäuscht auf das Zimmer zurück.
@@ -94,10 +94,10 @@ Nach etwas gewöhnungbedürftigem Heimweg: Ankunft im Hotel. Wir erklären der R
 Anruf bei der Rezeption, diesmal kein Piepton, stadtdessen meldet sich eine Frau, deren etwas verzerrte Stimme der Rezeptionistin gehören könnte. Wir fragen sie nach dem verbleib von Herr "Maintenance Guy" Sie sagt uns, dass sie ihn gleich zu uns schicke.
 
 ### Donnerstag 15:55
-Es klopft. Ich öffne. Vor mir steht ein dicklicher Mann, etwas kleiner als ich. Er trägt eine rotes Poloshirt, dass seine Zugehörigkeit zum Hotel zeigt. Sein Gesicht wirkt etwas zusammengedrückt. In seiner linken Hand hält er zwei gleich aussehende Geräte, die ein bisschen einem Taschenrechner ähneln. Am oberen Ende befindet sich jeweils ein kurzes Telefonkabel. Ich zeige ihm den Tresor. Wir lassen ih in Ruhe arbeiten.
+Es klopft. Ich öffne. Vor mir steht ein dicklicher Mann, etwas kleiner als ich. Er trägt eine rotes Poloshirt, welches seine Zugehörigkeit zum Hotel zeigt. Sein Gesicht wirkt etwas zusammengedrückt. In seiner linken Hand hält er zwei gleich aussehende Geräte, die ein bisschen einem Taschenrechner ähneln. Am oberen Ende befindet sich jeweils ein kurzes Telefonkabel. Ich zeige ihm den Tresor. Wir lassen ihn in Ruhe arbeiten.
 
 ### Donnerstag 15:57
 Wir hören das bekannte 3-malige Piepsen des Tresors, auf dem Display seines Gerätes steht "Error".
 
 ### Donnerstag 16:01
-Mit dem anderen Gerät hat Agent "Jeff" mehr erfolg, der Tresor ist offen. Wir bedanken uns, und Herr "Maintanance Guy" verlässt das Hotelzimmer. Weitere Tests am Safe ergeben keine neuen Erkenntnisse.
+Mit dem anderen Gerät hat Agent "Jeff" mehr Erfolg, der Tresor ist offen. Wir bedanken uns, und Herr "Maintanance Guy" verlässt das Hotelzimmer. Weitere Tests am Safe ergeben keine neuen Erkenntnisse.
