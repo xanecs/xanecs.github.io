@@ -59,3 +59,7 @@ body:not(.color):not(.dark) .post_content a {
 .post_content ul {
     list-style-position: inside;
 }
+
+#disqus_thread {
+	margin-top: 50px;
+}
