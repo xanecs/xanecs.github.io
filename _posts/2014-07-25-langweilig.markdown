@@ -38,6 +38,8 @@ An dieser Stelle noch ein paar Überlebenstipps für die letzten Schulwochen:
 * Ein Buch mitnehmen (Man darf in den letzten Stunden alles machen, außer es ist laut oder involviert ein Handy)
 * Diese Woche ist ideal für einen Arztbesuch (den man gerne noch mit Eisessen, oder genauer "Praktikum Feststoffwechsel im menschlichen Körper" verlängern kann) oder eine wichtige Veranstaltung (Sportverein, Ausbildungsmesse, dir fällt schon was ein)
 
-Ansosnten freue ich mich jetzt auf das Wochenende und drei weitere spannende Schultage.
+Ansonsten freue ich mich jetzt auf das Wochenende und drei weitere spannende Schultage.
 Ich hoffe ich bin mit dem Beitrag niemandem auf den Schlipps getreten, aber ihr wisst ja:
-"Ein böser Blog-Beitrag ist der erste Schritt zur Besserung - oder war es ein böses Flugblatt? Ach egal." - Oscar Wilde
+> "Ein böser Blog-Beitrag ist der erste Schritt zur Besserung - oder war es ein böses Flugblatt? Ach egal."
+
+Oscar Wilde
