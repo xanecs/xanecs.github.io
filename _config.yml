@@ -1,8 +1,11 @@
 safe: true
 lsi: false
-pygments: true
+highlighter: true
 paginate: 5
 
 markdown: redcarpet
 redcarpet:
   extensions: [ "autolink" ]
+
+gems:
+  - jemoji
