@@ -51,16 +51,11 @@ ein entsprechendes Zeugnis der 10. Klasse. Wenn das zu "schlecht" (Mal ehrlich,
 Noten sind doch eh 50% Glück, 40% Image vor den Lehrern, 10% ein bisschen Mühe
 geben und 0% "Leistung") war, darf man zwar auch als Mentor arbeiten, aber nicht
 für Geld. So viel zum Thema gleiches Geld für gleiche Arbeit. Aber egal, ich
-darf arbeiten und bekomme Geld dafür. Was man da so macht? Offiziell: Schülern
+darf arbeiten und bekomme Geld dafür. Was man da so macht? Schülern
 aus der Klasse 5 bis 8 mit den Hausaufgaben helfen.
-Aber auch hier wurde nicht genau auf Angebot und Nachfrage geachtet. Die Anzahl
-der Stellen war nicht begrenzt und nichts motiviert einen Schüler so sehr wie
-Geld. Wegen chronischer Überbesetzung wird man also eher dafür bezahlt **seine
-eigenen** Hausaufgaben zu machen.
-Und besser als das, geht es doch schon fast nicht mehr!
 
 Soweit das bisherige Schuljahr. Wenn noch irgendwas schlimmes passieren sollte,
 wird wahrscheinlich ein "Früher war alles besser!"-Beitrag folgen. Mal sehen.
 
-**PS:** Sogar die Zeiten zu denen ich Beiträge schreiben sind besser geworden:
+**PS:** Sogar die Zeiten zu denen ich Beiträge schreibe sind besser geworden:
 18:10 - wie normal ;-)
