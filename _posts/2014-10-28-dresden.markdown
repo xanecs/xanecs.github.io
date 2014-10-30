@@ -17,7 +17,7 @@ Empfangsgeräten zu Hause mitraten: Anwort A ist richtig.) Und wo liegt das?
 wirklich interessiert.
 
 Die Anfahrt verlief recht unspektakulär, bis ich dann beim Anblick eines
-kleinen Schildes an der Hotelrezeption in eine kurzweilige Schockstarre verfiel.
+kleinen Schildes an der Hotelrezeption in eine kurzzeitige Schockstarre verfiel.
 Auf dem Schild ging es um die hoteleigene Netzwekinfrastruktur (auch WLAN
 genannt). Genauer gesagt, war es eine Zahl, die mich erschreckte: **256 kbit/s**
 Gedrosselt. Verdammt. Irgendwie ist das bei der Hotelbeschreibung im Internet
