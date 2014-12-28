@@ -74,6 +74,12 @@ and (min-width : 1024px) {
     list-style-position: inside;
 }
 
+.post_content blockquote {
+  background: #eee;
+  border-left: 5px solid #aaa;
+  padding: 5px;
+}
+
 #disqus_thread {
 	margin-top: 50px;
 }
