@@ -19,17 +19,17 @@ Auch in Sachen Fotografie haben die vergangenen Monate etwas zu vermelden, es wa
 
 ### 04.11.2014 - Morgens, viel zu früh
 
-![sky](/assets/20141228/_DSC4484.jpg)
+![sky](/assets/20141228/DSC4484.jpg)
 
 
 ### 23.11.2014 - Irgendwo im Schwarzwald
 
-![sw01](/assets/20141228/_DSC4541.jpeg)
-![sw02](/assets/20141228/_DSC4564.jpeg)
-![sw03](/assets/20141228/_DSC4566.jpeg)
-![sw04](/assets/20141228/_DSC4570.jpeg)
-![sw05](/assets/20141228/_DSC4574.jpeg)
-![sw06](/assets/20141228/_DSC4578.jpeg)
+![sw01](/assets/20141228/DSC4541.jpeg)
+![sw02](/assets/20141228/DSC4564.jpeg)
+![sw03](/assets/20141228/DSC4566.jpeg)
+![sw04](/assets/20141228/DSC4570.jpeg)
+![sw05](/assets/20141228/DSC4574.jpeg)
+![sw06](/assets/20141228/DSC4578.jpeg)
 
 ### 26.11.2014 - "InK" - Auf meiner Schreibtischplatte
 
@@ -40,15 +40,15 @@ Auch in Sachen Fotografie haben die vergangenen Monate etwas zu vermelden, es wa
 
 ### 06.12.2014 - Teleobjektiv vor der Haustür
 
-![zoom](/assets/20141228/_DSC4929.jpg)
+![zoom](/assets/20141228/DSC4929.jpg)
 
 ### 07.12.2014 - Irgendwo im Schwarzwald II
 
-![swii01](/assets/20141228/_DSC4946.jpeg)
-![swii02](/assets/20141228/_DSC4952.jpeg)
-![swii03](/assets/20141228/_DSC4958.jpeg)
-![swii04](/assets/20141228/_DSC4959.jpeg)
-![swii04](/assets/20141228/_DSC4963.jpeg)
+![swii01](/assets/20141228/DSC4946.jpeg)
+![swii02](/assets/20141228/DSC4952.jpeg)
+![swii03](/assets/20141228/DSC4958.jpeg)
+![swii04](/assets/20141228/DSC4959.jpeg)
+![swii04](/assets/20141228/DSC4963.jpeg)
 
 ---
 
