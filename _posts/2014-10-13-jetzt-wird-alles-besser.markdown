@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jetzt wird alles besser!"
-date: 2014--10-13 16:50:00
+date: 2014-10-13 16:50:00
 categories: school update
 ---
 
