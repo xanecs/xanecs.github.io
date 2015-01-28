@@ -20,16 +20,18 @@ Nach ein Paar Längenmessungen mit einem DIN-A4-Blatt, Volumenmessungen mit Wass
 Die will ich beruhigen: Die Einheit zuerst: Gramm pro Liter. Aber: 12,5 Gramm ungepopptes Popcorn pro Liter gepopptes Popcorn. Unheimlich Hilfreich!
 
 Jetzt zur Rechenweg-Fraktion: Experimentelle Befunde zeigen: 3 Löffel ungepopptes Popcorn ergeben eine Tupperschüssel voll gepopptem Popcorn. Das Popcorn, das in einen Löffel passt wiegt laut Küchenwaage 8g.
-Also sind 3 Löffel 24g. Die Tupperschüssel wird mit einer Halbkugel angenähert. Der Durchmesser entspricht etwas weniger als der Breite eines DIN-A4-Blattes, also etwa 20cm, der Radius beträgt also 10cm. Mit der Formel ((4/3)*Pi*r^3)/2 erhält man etwa 2 Liter. Also etwa 25g pro 2l, oder 12,5g pro Liter.
+Also sind 3 Löffel 24g. Die Tupperschüssel wird mit einer Halbkugel angenähert. Der Durchmesser entspricht etwas weniger als der Breite eines DIN-A4-Blattes, also etwa 20cm, der Radius beträgt also 10cm. Mit der Formel
+\\[ \frac{\frac{4}{3} \times \pi \times r^3}{2} \\]
+erhält man etwa 2 Liter. Also etwa 25g pro 2l, oder 12,5g pro Liter.
 
 Ich hoffe ich konnte die beiden wütenden Meuten etwas beruhigen. Jetzt also zum Nutzen des Popcornkoeffizienzen:
 Die Zahlreichen Einsatzgebiete lassen sich in 2 Gruppe einteilen: Die Einkaufsphase und die Popphase.
 
 **Die Einkaufsphase**  
-Für die projektorientierten Popcornfreunde: Habt ihr euch z.B. vorgenommen ein 1000l-Fass mit Popcorn zu Füllen, könnt ihr einfach ausrechnen, dass ihr 12,5*1000 = 12500g = 12,5kg Popcornmais kaufen müsst. Cool, oder?
+Für die projektorientierten Popcornfreunde: Habt ihr euch z.B. vorgenommen ein 1000l-Fass mit Popcorn zu Füllen, könnt ihr einfach ausrechnen, dass ihr \\(12,5 \times 1000 = 12500g = 12,5kg\\) Popcornmais kaufen müsst. Cool, oder?
 
 **Die Popphase**  
-Das Popcorn steht im Topf auf dem Herd und ihr sucht noch die passende Schüssel? Mit dem Popcornkoeffizienten kein Problem: Ihr habt z.B. 50g Popcorn in den Topf getan, dann könnt ihr mit 50/12,5 = 4 Liter das benötigte Schüsselvolumen berechnen.
+Das Popcorn steht im Topf auf dem Herd und ihr sucht noch die passende Schüssel? Mit dem Popcornkoeffizienten kein Problem: Ihr habt z.B. 50g Popcorn in den Topf getan, dann könnt ihr mit \\( \frac{50g}{12,5} = 4l \\) das benötigte Schüsselvolumen berechnen.
 
 Für die Profi-Popcornpopper unter euch möchte ich anmerken, dass der Popcornkoeffizient für verschiedene Maissorten abweichen kann. Ihr solltet also für eure Maissorte den Popcornkoeffizienzen selbst ermitteln. Um es anderen Popcornpoppern zu erleichtern und um einen besseren Durchschnittswert zu ermitteln, könnt ihr dann euren Wert in die Kommentare schreiben. Ansonsten: Guten Appetit.
 
