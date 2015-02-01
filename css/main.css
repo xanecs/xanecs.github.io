@@ -41,6 +41,7 @@ a {
   font-size: 32px;
   font-family: "Josefin Sans", sans-serif;
   font-weight: 200;
+  font-style: italic;
 }
 
 .topbar {
@@ -57,23 +58,65 @@ a {
   display: block;
 }
 
-.left {
-  float: left;
+.navbar.open {
+  height: 300px;
 }
 
-.right {
-  float: right;
+@media(min-width: 700px) {
+  .navbar {
+    height: 55px;
+  }
+
+  .nav {
+    height: 100%;
+    margin-bottom: 0 !important;
+    margin-left: 0 !important;
+    display: block !important;
+  }
+
+  .nav li {
+    display: inline-block;
+  }
+
+  .nav li:last-child {
+    margin-right: 0;
+  }
+
+  .nav.right li:last-child {
+    margin-right: 20px;
+  }
+
+  .nav.left li:first-child {
+    margin-left: 20px;
+  }
+
+  .left {
+    float: left;
+  }
+
+  .right {
+    float: right;
+  }
+
+  .navbar-toggle {
+    display: none;
+  }
 }
 
 .nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  height: 100%;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  display: none;
+}
+
+.navbar.open .nav {
+  display: block;
 }
 
 .nav li {
-  display: inline-block;
   margin-right: 20px;
   padding: 15px 0;
   height: 50px;
@@ -81,16 +124,12 @@ a {
   transition: border-bottom 0.2s ease;
 }
 
-.nav li:last-child {
-  margin-right: 0;
-}
-
-.nav.right li:last-child {
-  margin-right: 20px;
-}
-
-.nav.left li:first-child {
-  margin-left: 20px;
+.navbar-toggle {
+  color: white;
+  font-size: 28px !important;
+  margin: 10px 0 10px 0;
+  float: right;
+  cursor: pointer;
 }
 
 .nav li:hover {
@@ -159,4 +198,64 @@ article {
 .article-content img {
   max-width: 100%;
   height: auto;
+}
+
+h1, h2, h3 {
+  font-family: "Josefin Slab";
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h2 {
+  font-size: 23px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+table {
+  width: 100%;
+  margin: 20px 0;
+  display: table;
+}
+
+tr {
+  display: table-row;
+}
+
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  display: table-cell;
+  padding: 10px;
+}
+
+thead {
+  font-weight: 700;
+}
+
+.paginator {
+  font-family: "Josefin Sans";
+  font-size: 18px;
+  border-top: 1px dotted black;
+  padding-top: 20px;
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+a.btn, .article-content a {
+  color: #357B99;
+}
+
+a.btn:first-child {
+  margin-right: 20px;
+}
+
+a.btn:last-child {
+  margin-left: 20px;
 }

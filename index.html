@@ -15,28 +15,25 @@ title: Startseite
   <!--<div class="article-footer"><a href="{{post.url}}">Weiter</a></div>-->
 </article>
 {% endfor %}
-<!--
 {% if paginator.total_pages > 1 %}
-<section class="bck light" id="paginator-bar">
-  <div class="row text center">
-    <nav data-tuktuk="menu" class="column_12 padding text bold">
-      {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-      <a href="/" class="button tiny"><span class="icon arrow-left"></span> Vorherige Seite</a>
-      {% else %}
-      <a href="/page{{paginator.previous_page}}" class="button tiny"><span class="icon arrow-left"></span> Vorherige Seite</a>
-      {% endif %}
-      {% else %}
-      <a href="#" class="button secondary tiny"><span class="icon arrow-left"></span> Vorherige Seite</a>
-      {% endif %}
+<div class="paginator">
 
-      {% if paginator.next_page %}
-      <a href="/page{{paginator.next_page}}" class="button tiny">Nächste Seite <span class="icon arrow-right"></span></a>
-      {% else %}
-      <a href="#" class="button secondary tiny">Nächste Seite <span class="icon arrow-right"></span></a>
+      {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+        <a href="/" class="btn">
+          <span class="fa fa-angle-double-left"></span> Vorherige Seite
+        </a>
+        {% else %}
+        <a href="/page{{paginator.previous_page}}" class="btn">
+          <span class="fa fa-angle-double-left"></span> Vorherige Seite
+        </a>
+        {% endif %}
       {% endif %}
-    </nav>
-  </div>
-</section>
+      <span>Seite {{paginator.page}} von {{paginator.total_pages}}</span>
+      {% if paginator.next_page %}
+      <a href="/page{{paginator.next_page}}" class="btn">
+        Nächste Seite <span class="fa fa-angle-double-right"></span>
+      </a>
+      {% endif %}
+</div>
 {% endif %}
--->

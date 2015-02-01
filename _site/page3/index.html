@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" type="text/css" href="/css/reset.css">
   <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <script type="text/javascript"
   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
   </script>
@@ -24,7 +25,8 @@
 <body>
   <div class="jumbotron">
     <div class="topbar">
-      <div class="navbar">
+      <div class="navbar" id="nav-top">
+        <div class="navbar-toggle"><span class="fa fa-bars" id="nav-toggle"></span></div>
         <ul class="nav left">
           <li><a href="/">Startseite</a></li>
           <li><a href="/aboutme.html">Über mich</a></li>
@@ -32,19 +34,30 @@
         </ul>
         <ul class="nav right">
           <li><a href="https://twitter.com/xanecs">Twitter</a></li>
-          <li><a href="https://guthub.com/xanecs">GitHub</a></li>
+          <li><a href="https://github.com/xanecs">GitHub</a></li>
         </ul>
       </div>
     </div>
     <div class="jumbotron-content">
       <div class="jumbotron-center">
         <h1>Leon's Blog</h1>
-        <h2>Mehr als nur Lorem Ipsum</h2>
+        <h2>&#132;Ich gebe nur Denkanstöße...&#148;</h2>
       </div>
     </div>
   </div>
   <div class="page">
     
+<article>
+  <div class="article-head">
+    <a href="/melrose/update/2014/06/28/paris.html"><h2 class="color theme text bold">Paris</h2></a>
+    <h5>Geschrieben am 28 Jun 2014</h5>
+  </div>
+  <p class="article-content">
+    Seit 1 Woche hat ja die Rückrunde des Schüleraustausches angefangen, dass heißt, mein Austauschschüler ist jezt in Deutschland bei mir. Am letzten Freitag waren wir in Paris. &quot;Am letzten Freitag&quot; heißt: Losfahren am Donnertag um 23:00 Uhr und Ankommen am Samstag um 4:45 Uhr. Und da wir am Donnerstag noch Schule hatten und das Spiel Deutschland - USA ansehen wollten,...
+  </p>
+  <!--<div class="article-footer"><a href="/melrose/update/2014/06/28/paris.html">Weiter</a></div>-->
+</article>
+
 <article>
   <div class="article-head">
     <a href="/default/update/2014/06/23/wm.html"><h2 class="color theme text bold">WM</h2></a>
@@ -100,37 +113,26 @@ Hier: &darr;
   <!--<div class="article-footer"><a href="/update/2014/03/09/kommentare.html">Weiter</a></div>-->
 </article>
 
-<article>
-  <div class="article-head">
-    <a href="/melrose/update/2014/03/07/heimreise.html"><h2 class="color theme text bold">Heimreise</h2></a>
-    <h5>Geschrieben am 07 Mar 2014</h5>
-  </div>
-  <p class="article-content">
-    Es ist jetzt also soweit: Es geht zurück! Zurück nach Deutschland. (Durch die Zeitzonen vielleicht auch Zurück in die Zukunft) Also mal wieder packen. Ich habe alles. Glaube ich. Hoffe ich. Irgendwie schon interessant, das &quot;Glauben&quot; meistens das gleiche heißt wie &quot;Hoffen&quot;, oder? Ist das der &quot;gesunde Optimismus&quot; von dem immer alle reden? Heißt das am Ende, dass sich Optimismus...
-  </p>
-  <!--<div class="article-footer"><a href="/melrose/update/2014/03/07/heimreise.html">Weiter</a></div>-->
-</article>
 
-<!--
-
-<section class="bck light" id="paginator-bar">
-  <div class="row text center">
-    <nav data-tuktuk="menu" class="column_12 padding text bold">
-      
-      
-      <a href="/page2" class="button tiny"><span class="icon arrow-left"></span> Vorherige Seite</a>
-      
-      
+<div class="paginator">
 
       
-      <a href="/page4" class="button tiny">Nächste Seite <span class="icon arrow-right"></span></a>
+        
+        <a href="/page2" class="btn">
+          <span class="fa fa-angle-double-left"></span> Vorherige Seite
+        </a>
+        
       
-    </nav>
-  </div>
-</section>
+      <span>Seite 3 von 6</span>
+      
+      <a href="/page4" class="btn">
+        Nächste Seite <span class="fa fa-angle-double-right"></span>
+      </a>
+      
+</div>
 
--->
 
   </div>
+  <script type="text/javascript" src="/js/menu.js"></script>
 </body>
 </html>

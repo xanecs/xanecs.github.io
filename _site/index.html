@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" type="text/css" href="/css/reset.css">
   <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <script type="text/javascript"
   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
   </script>
@@ -24,7 +25,8 @@
 <body>
   <div class="jumbotron">
     <div class="topbar">
-      <div class="navbar">
+      <div class="navbar" id="nav-top">
+        <div class="navbar-toggle"><span class="fa fa-bars" id="nav-toggle"></span></div>
         <ul class="nav left">
           <li><a href="/">Startseite</a></li>
           <li><a href="/aboutme.html">Über mich</a></li>
@@ -32,19 +34,30 @@
         </ul>
         <ul class="nav right">
           <li><a href="https://twitter.com/xanecs">Twitter</a></li>
-          <li><a href="https://guthub.com/xanecs">GitHub</a></li>
+          <li><a href="https://github.com/xanecs">GitHub</a></li>
         </ul>
       </div>
     </div>
     <div class="jumbotron-content">
       <div class="jumbotron-center">
         <h1>Leon's Blog</h1>
-        <h2>Mehr als nur Lorem Ipsum</h2>
+        <h2>&#132;Ich gebe nur Denkanstöße...&#148;</h2>
       </div>
     </div>
   </div>
   <div class="page">
     
+<article>
+  <div class="article-head">
+    <a href="/default/update/2015/02/01/geburtstagsblog.html"><h2 class="color theme text bold">Geburtstag</h2></a>
+    <h5>Geschrieben am 01 Feb 2015</h5>
+  </div>
+  <p class="article-content">
+    Es ist mal wieder soweit: Geburtstag! Und diesmal jemand ganz besonderes. Nein, nicht ich, aber ich bin mir ziemlich sicher, dass du ihn kennst. Gemeint ist nämlich der Blog, den du hier gerade liest, der wird heute nämlich ein Jahr alt. Und beschenkt wurde er auch von mir. Mit einem neuen Design. Das alte war ja auch schon etwas in...
+  </p>
+  <!--<div class="article-footer"><a href="/default/update/2015/02/01/geburtstagsblog.html">Weiter</a></div>-->
+</article>
+
 <article>
   <div class="article-head">
     <a href="/default/update/2015/01/25/der-popcornkoeffizient.html"><h2 class="color theme text bold">Der Popcornkoeffizient</h2></a>
@@ -89,35 +102,20 @@
   <!--<div class="article-footer"><a href="/default/update/2014/10/31/dresden-3.html">Weiter</a></div>-->
 </article>
 
-<article>
-  <div class="article-head">
-    <a href="/default/update/2014/10/29/dresden-2.html"><h2 class="color theme text bold">Dresden, Tag 2</h2></a>
-    <h5>Geschrieben am 29 Oct 2014</h5>
-  </div>
-  <p class="article-content">
-    Der zweite Tag Dresden hat für meinen Geschmack etwas zu früh begonnen. 7:30 Uhr, und das in den Ferien! Es ging in die Natur: In die Schweiz. Nicht die echte natürlich, sondern in die kleine in Sachsen. In der sächsischen Schweiz hat es in erster Linie Landschaft, ansonsten noch die Überreste einer Burg. An mehreren Aussichtsplatformen kann man auf die...
-  </p>
-  <!--<div class="article-footer"><a href="/default/update/2014/10/29/dresden-2.html">Weiter</a></div>-->
-</article>
 
-<!--
-
-<section class="bck light" id="paginator-bar">
-  <div class="row text center">
-    <nav data-tuktuk="menu" class="column_12 padding text bold">
-      
-      <a href="#" class="button secondary tiny"><span class="icon arrow-left"></span> Vorherige Seite</a>
-      
+<div class="paginator">
 
       
-      <a href="/page2" class="button tiny">Nächste Seite <span class="icon arrow-right"></span></a>
+      <span>Seite 1 von 6</span>
       
-    </nav>
-  </div>
-</section>
+      <a href="/page2" class="btn">
+        Nächste Seite <span class="fa fa-angle-double-right"></span>
+      </a>
+      
+</div>
 
--->
 
   </div>
+  <script type="text/javascript" src="/js/menu.js"></script>
 </body>
 </html>
