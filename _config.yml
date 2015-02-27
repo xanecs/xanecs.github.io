@@ -1,6 +1,6 @@
 safe: true
 lsi: false
-highlighter: true
+highlighter: pygments
 paginate: 5
 
 markdown: redcarpet
