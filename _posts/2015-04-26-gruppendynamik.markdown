@@ -49,3 +49,17 @@ Dieses Chaos-Monster wurde dann versucht durch eine strawpoll.me - Umfrage zu b�
 Im Prinzip ist das Chaos-Monster der WhatsApp-Gruppe eine Figur der griechischen Mythologie, nämlich Hydra, das Monster mit acht Köpfen. Sobald man einen der Köpfe abschlägt, wachsen dort sofort zwei neue Köpfe nach.
 
 Sämtliche Versuche dieses Monster zu bändigen sind zum scheitern verurteilt. Weg von der WhatsApp-Gruppe als achtköpfige Hydra des 21. Jahrhunderts, zurück zum ursprünglichen Problem.
+
+Inzwischen hatten sich dann doch irgendwie 6 Designs gefunden, über die man Abstimmen wollte. Na gut, irgendwie, das kann ich präzisieren. Ich habe einfach mal ein Bild gepostet. Dieses hier nämlich:
+
+![Sprüche](/assets/20150426/slogan_choices.jpg)
+
+Dann gabe es eine Abstimmung und seltsamerweise sogar keine Gegenabstimmung. Alleingänge lohnen sich wohlm dachte ich. Denn dann würde das nächste Instrument der Trivialität ausgepackt: Das Vorwurfskarusel, auch beschrieben von Marc-Uwe-Kling in seinem Werk "Das Känguru-Manifest". Das Vorwurfskarusel kann von jeder einfachen Frage gestartet werden und ist nur schwer zu stoppen. Das sieht dann etwa so aus. Person A übt Kritik am Design von Person B (mir). Diese Kritik war konstruktiv gedacht, so dass Person B die Gruppe fragt, ob es nicht besser wäre am Designvorschlag einige von Person A vorgeschlagene Änderungen durchzuführen. Person C hat allerdings etwas dagegen, und wirft das Vorwurfskarusel an. Dadurch werden zuerst Person A, dann Person B und als letztes alle anderen zum Abschuss freigegeben. Von Beleidigungen und völlig aus dem Zusammenhang gerissenen Vorwürfen. (Damals in der 5. Klasse hast du auch schon immer...) bis hin zu Grundsatzfragen einer Demokratie wird nichts ausgelassen. Bis das Karusel wieder langsamer wird und wieder dort zum stehen kommt, wo es angefangen hat, nur, dass jetzt auch noch allen schlecht ist.
+
+Vergleiche hierzu auch "Die Trockner-Theorie" des kommunistischen Kängurus: "Unzählige Umdrehungen in Höchstgeschwindigkeit erzielen kein Ergebnis außer heißer Luft."
+
+Nun, wo haben die Fahrgäste das Vorwurfskarusell verlassen? Ganz am Anfang. Es soll eine Diskussion geben, aber diesmal persönlich. In der Schule, mit Blickkontakt und echtem Anschreien, anstatt nur in Großbuchstaben zu schreiben.
+
+Alle genannten Einflüsse werden noch durch einen wichtigen Faktor verstärkt, der bisher nicht erwähnt wurde: Die Zeit. Denn je kürzer die verbleibende Zeit, desto dringender der Sachverhalt, desto dringender die eigene Meinung, desto aggresiver die Besitzer der Meinungen. Während es bei der WhatsApp-Debatte ein weit entferntes Zeitlimit gab, im Bereich von ein paar Tagen, wird morgen klar sein: Nach 20 Minuten ist die Pause vorbei. Es wird schlimm werden, das weiß ich. Es wird zum Äußersten kommen.
+
+Und was auch klar ist: Fortsetzung folgt. Ich sage nur Abimotto, Abizeitung, Abifilm.
