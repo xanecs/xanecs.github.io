@@ -5,7 +5,7 @@ date: 2015-05-26 19:00:00
 categories: default update
 ---
 
-Gerade erst bin ich von der Sudienfahrt nach Hause gekommen, jetzt bin ich auch schon wieder woanders. Ganz woanders, sowohl geographisch, als auch von der Art des Ortes. Nach Großstadt im Osten Deutschlands bin ich jetzt in einem kleinen Ort in den Alpen von Österreich. Und statt 
+Gerade erst bin ich von der Sudienfahrt nach Hause gekommen, jetzt bin ich auch schon wieder woanders. Ganz woanders, sowohl geographisch, als auch von der Art des Ortes. Nach Großstadt im Osten Deutschlands bin ich jetzt in einem kleinen Ort in den Alpen von Österreich.
 
 *Pertisau* heißt das hier, und liegt am Achensee. Der See war auch das erste, was ich auf der Anreise wirklich gesehen habe. Mir gefällt der Anblick, im Vordergrund Strandkörbe und ein Bootsteg und dahinter geht es steil den Berg hoch.
 
