@@ -23,7 +23,7 @@ Auch Pflanzen waren nicht schnell genug um von mir davon zu rennen.
 
 Ziemlich am Anfang des Weges gab es auch eine Kuhweide. Die meisten Kühe haben mich (wie mir das eigentlich immer passiert) demonstrativ mit ihrem Hinterteil angesehen. Ein besonderes Paar war aber noch dabei, ich nenne das Bild "Streitendes Ehepaar":
 
-![streitendes ehepaar](/asstes/20150527/DSC6356_lzn.jpg)
+![streitendes ehepaar](/assets/20150527/DSC6356_lzn.jpg)
 
 Nach etwa 3 Kilometern haben wir an einer Hütte Pause gemacht und Apfelschorle getrunken. Dabei haben mir dann ein paar Hühner zugesehen, die dort einfach mal so herum gelaufen sind.
 
