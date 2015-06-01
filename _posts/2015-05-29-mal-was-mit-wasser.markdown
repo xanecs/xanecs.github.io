@@ -25,7 +25,7 @@ Wenig später im Hotelzimmer passende Kleidung für einen Bootsausflug geschnapp
 
 Dort Standen schon eine Reihe Busse (Kaffeefahrt?), die just in dem Moment, in dem wir ankamen, ihre Insassen in die Freiheit entließen. Deshalb verschoben wir kurzerhand unseren Fahrtantritt um eine Stunde.
 
-Diese Zeit vertrieben wir uns in einem 4-Sterne-Superio/10r-Biergarten. Von dort aus hatte man einen guten Blick auf Bus- und Schiffsanlegestelle. In der Speisekarte dieses Biergartens fand man nicht nur Bier, sondern zum Beispiel auch einen Apfelstrudel. Im Kleingedruckten dazu wurde man über sämtliche Gefahren, die der Verzehr dieses Nahrungsmittels mit sich bringt, aufmerksam gemacht. Vergessen wurde dabei nur ein winziges Detail: Rosinen. Rum-Rosinen. Arghhh...
+Diese Zeit vertrieben wir uns in einem 4-Sterne-Superior-Biergarten. Von dort aus hatte man einen guten Blick auf Bus- und Schiffsanlegestelle. In der Speisekarte dieses Biergartens fand man nicht nur Bier, sondern zum Beispiel auch einen Apfelstrudel. Im Kleingedruckten dazu wurde man über sämtliche Gefahren, die der Verzehr dieses Nahrungsmittels mit sich bringt, aufmerksam gemacht. Vergessen wurde dabei nur ein winziges Detail: Rosinen. Rum-Rosinen. Arghhh...
 
 Als dann wenig später ein Schiff und keine Busse anlegten, sind wir an Bord gegangen. Die Überfahrt verlief auf ruhiger See ohne Probleme.
 
