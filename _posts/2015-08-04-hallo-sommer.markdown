@@ -71,7 +71,6 @@ Und war hat sowas? Ein Kunstmuseum natürlich.
 ![cs_002](/assets/20150804/cs_002.jpg)
 ![cs_003](/assets/20150804/cs_003.jpg)
 ![cs_004](/assets/20150804/cs_004.jpg)
-![cs_005](/assets/20150804/cs_005.jpg)
 
 Aber anscheinend war das noch nicht teuer genug. Im gleichen Museum findet man nämlich auch noch eine riesige Leinwand mit drei Beamern. Auf dem Boden.
 
