@@ -3,9 +3,5 @@ lsi: false
 highlighter: pygments
 paginate: 5
 
-markdown: redcarpet
-redcarpet:
-  extensions: [ "autolink" ]
-
 gems:
   - jemoji
