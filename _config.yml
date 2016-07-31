@@ -8,3 +8,4 @@ gems:
 
 include:
   - assets
+  - *.jpg
