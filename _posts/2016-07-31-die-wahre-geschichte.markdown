@@ -25,7 +25,7 @@ Die Lehrerin hatte mit hundert liebevoll ausgeführten Schwarz-Weiß-Kopiervorg�
 
 Da ich damals wie heute schon so unheimlich kreativ war, entschied ich mich schon nach nur wenigen Doppelstunden Bedenkzeit für "Radioaktives Brachland". Und so kam es, dass auf diesem Stück DIN A3 Papier klein im Hintegrund ein "Tümpel mit Seeschlange" entstand.
 
-![Nessie v1](/assets/20160731/_DSC1735.JPG)
+![Nessie v1](/assets/20160731/_DSC1735.jpg)
 Ich habe leider das Original nicht, aber so etwa sah es aus.
 
 Das "Schlange-Tümpel-Viech-Dings", wie es damals noch hieß war jetzt weder besonders schön, noch sonst irgendwas, aber ich konnte es besser malen als alles andere. Und anegtrieben durch ein bisschen Langeweile entwickelte sich das Viech weiter.
@@ -57,7 +57,7 @@ Loch Ness ist vor allem recht Tief, im Schnitt nämlich 40m tiefer als der Boden
 Der See hat mehrere Zuläufe, und die haben manchmal (kleine) Wasserfälle unterwegs.
 
 ![Wasserfall](/assets/20160731/_DSC0838.jpg)
-![Wasserfall](/assets/20160731/_DSC0791.jpg)
+![Wasserfall](/assets/20160731/_DSC0971.jpg)
 ![Wasserfall](/assets/20160731/_DSC0865.jpg)
 ![Wasserfall](/assets/20160731/_DSC0870.jpg)
 
