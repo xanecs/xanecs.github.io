@@ -17,11 +17,11 @@ Und nach diesem 99ct-Tischfeuerwerk einer Überleitung kann es dann auch losgehe
 Mit der Fähre genauer gesagt, denn zum Brücke bauen ist wohl noch keiner gekommen.
 
 ![Insel mit Wolke](/assets/20160803/_DSC1426.jpg)
-Immerhin kann man auf der Fahrt eine der wenigen Wolkenfabriken weltweit beobachten.
+Immerhin kann man auf der Fahrt eine der Swenigen Wolkenfabriken weltweit beobachten.
 
 Die Fahrt dauert etwa 1 Stunde, was eigentlich kein Problem wäre, wenn da nicht noch Autos mitfahren würden. Einigen davon gefällt es nämlich gar nicht, bewegt zu werden, obwohl der Motor aus ist. Ihren Unmut verkünden sie dann durch orangene Leuchtsignale und doch recht lautes Hupen.
 
-Bleibt noch die Frage zu klären, wieso jeden Tag Schiffsladungen voller Autos zur Inasd sel gebracht werden, deren Halter noch keine Routine darin haben, die eingebaute Alarmanlage auszuschalten.
+Bleibt noch die Frage zu klären, wieso jeden Tag Schiffsladungen voller Autos zur Insel gebracht werden, deren Halter noch keine Routine darin haben, die eingebaute Alarmanlage auszuschalten.
 
 
 ### Die Alten sind Schuld!
