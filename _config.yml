@@ -1,10 +1,10 @@
-safe: true
 lsi: false
 highlighter: rouge
-paginate: 5
+paginate: 7
 
 gems:
   - jemoji
+  - jekyll-paginate
 
 include:
   - assets
