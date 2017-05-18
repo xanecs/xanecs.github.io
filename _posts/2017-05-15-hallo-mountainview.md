@@ -25,7 +25,7 @@ noch eine ganze Menge.
 7km waren es dann am Ende, bis ich an der Tür der Unterkunft stand. Doch etwas
 mehr als ich geschätzt habe.
 
-![Palmen](/assets/20170515/20170517_003.jpg)
+![Palmen](/assets/20170515/20170517_0003.jpg)
 
 Mein Gastgeber begrüßt mich zeigt mir mein Zimmer, die Küche und wie die Haustür
 funktioniert. Nein, ich bin nicht zu blöd eine Tür auf- und zuzumachen, aber
