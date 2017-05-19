@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google I/0 2017: Intro"
+title: "Google I/O: Intro"
 date: 2017-05-15 00:00:00
 ---
 
