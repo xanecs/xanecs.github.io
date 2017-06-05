@@ -12,7 +12,7 @@ beantworten.
 
 ![I/O Logo](/assets/20170519/20170517_0014.jpg)
 
-Google nennt die I/O ein "dreitägiges outdoor Tech-_Festival_". Und das beschreibt es eigentlich ganz gut.
+Google nennt die I/O ein "dreitägiges outdoor Tech-Festival". Und das beschreibt es eigentlich ganz gut.
 
 Es gibt, neben dem Amphitheater, auf dem restlichen Gelände 7 weitere
 Bühnen, in denen Vorträge gehalten werden. Außerdem noch Zeltkuppeln mit
